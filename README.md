@@ -1,0 +1,1 @@
+Simple and clean react image slider component.
